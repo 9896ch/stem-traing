@@ -38,3 +38,10 @@ print(len(city))
 
 word = "deoxyribonucleicacid"
 print(len(word))
+
+
+#int ->string
+
+
+x = 100 #string
+y 
